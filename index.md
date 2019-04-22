@@ -6,6 +6,7 @@
 **Quality is Key** 
 I am a young entrepreneur that enjoys coding, photography and bow making! 
 I have my own busines that I have run since I was 16 years old.
+
 **Example*
 ![Hair Bow](/Pictures/OoiesBows/websitefeaturephoto.jpg)
 
@@ -13,12 +14,13 @@ I have my own busines that I have run since I was 16 years old.
 ### [Resume](https://www.linkedin.com/in/kylia-hurley-31194017b/)
 
 
-[Link](url) and ![Image](src)
+
 
 ### Contact me
 :iphone: 
-[Social media](https://www.linkedin.com/in/kylia-hurley-31194017b/)
+[Linkedin](https://www.linkedin.com/in/kylia-hurley-31194017b/)
 [Social Media](https://github.com/kittkattky)
+
 
 
 ### My Website 
