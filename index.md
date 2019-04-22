@@ -1,5 +1,5 @@
 ## About me, Ky
-![Github Logo](/
+![Image of me](/downloads/me.jpg)
 
 
 ### Markdown
