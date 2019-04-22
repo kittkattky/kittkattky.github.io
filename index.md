@@ -11,7 +11,8 @@ I have my own busines that I have run since I was 16 years old.
 ![Hair Bow](/Pictures/OoiesBows/websitefeaturephoto.jpg)
 
 
-### [Resume](https://www.linkedin.com/in/kylia-hurley-31194017b/)
+### Resume
+ [Resume](https://www.linkedin.com/in/kylia-hurley-31194017b/)
 
 
 
