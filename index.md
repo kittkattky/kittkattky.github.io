@@ -1,35 +1,28 @@
-## About me, Ky
-![Image of me](/downloads/me.jpg)
+## Who I am, Ky
+![Image of me](/Downloads/me.jpg)
+![Image of halloween](/Pictures/picforsoc.jpg)
+
+### The Basics
+**Quality is Key** 
+I am a young entrepreneur that enjoys coding, photography and bow making! 
+I have my own busines that I have run since I was 16 years old.
+**Example*
+![Hair Bow](/Pictures/OoiesBows/websitefeaturephoto.jpg)
 
 
-### Markdown
+### [Resume](https://www.linkedin.com/in/kylia-hurley-31194017b/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Welcome to my page
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact me
+:iphone: 
+[Social media](https://www.linkedin.com/in/kylia-hurley-31194017b/)
+[Social Media](https://github.com/kittkattky)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kittkattky/kittkattky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### My Website 
+[Website](http://www.ooiesbows.com/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Find my Github projects here!!
+[Projects](https://github.com/kittkattky)
