@@ -1,6 +1,6 @@
 ## Who I am, Ky
-![Image of me](/Downloads/me.jpg)
-![Image of halloween](/Pictures/picforsoc.jpg)
+![Image of me](me.jpg)
+![Image of halloween](picforsoc.jpg)
 
 ### The Basics
 **Quality is Key** 
@@ -8,7 +8,7 @@ I am a young entrepreneur that enjoys coding, photography and bow making!
 I have my own busines that I have run since I was 16 years old.
 
 **Example*
-![Hair Bow](/Pictures/OoiesBows/websitefeaturephoto.jpg)
+![Hair Bow](websitefeaturephoto.jpg)
 
 
 ### Resume
